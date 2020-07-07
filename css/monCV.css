@@ -87,7 +87,7 @@ details > summary {
 	width: 20%;
 }
 #menu li {
-	display: inline;
+	display: flex;
 }
 #menu a {
 	color: var(--title-font-color);
